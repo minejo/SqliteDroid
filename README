@@ -1,0 +1,7 @@
+该项目实现一个简单的SQLlite数据库的查询展示安卓APP
+
+Usage：
+
+* 导入项目到eclipse
+* 根据sqlite表的内容修改相关查询字段
+* 用eclipse编译生成apk安卓文件，手机安装即可

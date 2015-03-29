@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="dr">
+        <item>姓名</item>
+        <item>學號</item>  
+        <item>班級</item>    
+        <item>導師</item>
+        <item>找老乡</item>        
+        <item>政治面貌</item>
+        <item>民族</item>
+        <item>性別</item>        
+    </string-array>
+
+</resources>

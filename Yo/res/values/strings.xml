@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">14级信息研究生信息查询</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">About</string>
+    <string name="title_activity_about_author">关于作者</string>
+    <string name="author">Jonathan</string>
+    <string name="autormail">Email: jonathan.swjtu@gmail.com</string>
+    <string name="homepage">Blog: minejo.github.io</string>
+    <string name="authorschool">西南交通大学</string>
+    <string name="title_activity_detail">个人详细信息</string>
+    <string name="title_activity_main">14级信息研究生信息查询</string>
+
+</resources>
